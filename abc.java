@@ -1,5 +1,5 @@
 public class abc { 
-   public static void main(String[] args) {
-      System.out.println("-----Welcome To TCS----");
-  }
+   public static void main(String[] args) { 
+      System.out.println(" ****Welcome to tsc***");
+   }
 }
